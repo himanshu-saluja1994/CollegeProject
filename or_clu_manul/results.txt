@@ -1,0 +1,14 @@
+Edit Distance and KMeans  :  90 (73.7%)
+Edit Distance and Agglomerative : 94 (77.04%)
+
+n gram similarity and KMeans : 94 (77.04%)
+n gram similarity and Agglomerative : 99(81.1%)
+
+Jaccard similarity and KMeans : 106 (86.88%)
+Jaccard Similarity and Agglomerative : 110(90.16%)
+
+
+Masi similarity and KMeans : 114 (93.44%)
+Masi and Agglomerative : 116 (95.08%)
+
+

@@ -1,0 +1,337 @@
+{
+ "name": "My LinkedIn", 
+ "children": [
+  {
+   "name": "Product, Manager", 
+   "children": [
+    {
+     "name": "shaloo singh"
+    }, 
+    {
+     "name": "Nasiruddin Ahmad"
+    }
+   ]
+  }, 
+  {
+   "name": "Programmer, Analyst", 
+   "children": [
+    {
+     "name": "JP Godara"
+    }, 
+    {
+     "name": "Ramanan Ramesh"
+    }
+   ]
+  }, 
+  {
+   "name": "Assistant, Professor", 
+   "children": [
+    {
+     "name": "Monark Bag"
+    }, 
+    {
+     "name": "sanjai singh"
+    }, 
+    {
+     "name": "Samudrala Kumar"
+    }
+   ]
+  }, 
+  {
+   "name": "Student", 
+   "children": [
+    {
+     "name": "Manu Saxena"
+    }, 
+    {
+     "name": "Abhimanyu Singh"
+    }, 
+    {
+     "name": "Harshit Gupta"
+    }, 
+    {
+     "name": "Monica Singh"
+    }, 
+    {
+     "name": "ravinder naik azmeera"
+    }, 
+    {
+     "name": "Jyoti Singh"
+    }, 
+    {
+     "name": "Vishal Srivastava"
+    }, 
+    {
+     "name": "Aman Agarwal"
+    }, 
+    {
+     "name": "Jai Mishra"
+    }, 
+    {
+     "name": "Upendra gupta"
+    }, 
+    {
+     "name": "Shivlal Dhundhwal"
+    }, 
+    {
+     "name": "Amarnath kumar"
+    }, 
+    {
+     "name": "Nishtha Rai"
+    }, 
+    {
+     "name": "Vikhyat Tandon"
+    }, 
+    {
+     "name": "Shubham Tyagi"
+    }, 
+    {
+     "name": "siyaram malav"
+    }, 
+    {
+     "name": "manish kumar"
+    }, 
+    {
+     "name": "Vishnu Ks"
+    }, 
+    {
+     "name": "Sumit Kumar"
+    }, 
+    {
+     "name": "Amit Kumar Singh"
+    }, 
+    {
+     "name": "Shailendra Pratap Singh"
+    }, 
+    {
+     "name": "Ashutosh Gupta"
+    }, 
+    {
+     "name": "Ravi Kiran JP"
+    }, 
+    {
+     "name": "Deepak kumhar"
+    }, 
+    {
+     "name": "GAURAV VERMA"
+    }, 
+    {
+     "name": "Rishabh Chandel"
+    }, 
+    {
+     "name": "Navaz Mannan"
+    }, 
+    {
+     "name": "Sidharth Singla"
+    }, 
+    {
+     "name": "Talha Khan"
+    }, 
+    {
+     "name": "ANUJ SHARMA"
+    }, 
+    {
+     "name": "Ashok Danga"
+    }, 
+    {
+     "name": "Pramiti Goel"
+    }, 
+    {
+     "name": "Namrata singh chauhan"
+    }, 
+    {
+     "name": "Aaquib Khwaja"
+    }, 
+    {
+     "name": "Shreya Singh"
+    }, 
+    {
+     "name": "Pretty Meena"
+    }, 
+    {
+     "name": "Shiv Shankar Verma"
+    }, 
+    {
+     "name": "amanraj varshney"
+    }, 
+    {
+     "name": "Aman Aggarwal"
+    }, 
+    {
+     "name": "Divanshu Garg"
+    }
+   ]
+  }, 
+  {
+   "name": "Web, Designer", 
+   "children": [
+    {
+     "name": "Deepak Gupta"
+    }, 
+    {
+     "name": "JP Godara"
+    }
+   ]
+  }, 
+  {
+   "name": "Cell, Co-ordinator, Placement", 
+   "children": [
+    {
+     "name": "Adhishwar Mittal"
+    }, 
+    {
+     "name": "divya porwal"
+    }
+   ]
+  }, 
+  {
+   "name": "Founder", 
+   "children": [
+    {
+     "name": "Deekshith Marla"
+    }, 
+    {
+     "name": "HARI OM MEENA"
+    }, 
+    {
+     "name": "Bhawna Chandola"
+    }
+   ]
+  }, 
+  {
+   "name": "Engineer, Mechanical", 
+   "children": [
+    {
+     "name": "Adity Khandaalkar"
+    }, 
+    {
+     "name": "Sidharth Guglani"
+    }
+   ]
+  }, 
+  {
+   "name": "Senior, Developer, Software", 
+   "children": [
+    {
+     "name": "Sushil Kumar"
+    }, 
+    {
+     "name": "seshank koganti"
+    }, 
+    {
+     "name": "Viswash Pratap Singh"
+    }, 
+    {
+     "name": "Ruben Roy"
+    }, 
+    {
+     "name": "Naveen Bandlamoodi"
+    }, 
+    {
+     "name": "Anoop Mishra"
+    }, 
+    {
+     "name": "Pritam Kumar"
+    }, 
+    {
+     "name": "Amar deep gupta"
+    }, 
+    {
+     "name": "Hemant Pawar"
+    }, 
+    {
+     "name": "Abhishek Jha"
+    }, 
+    {
+     "name": "akshay khare"
+    }, 
+    {
+     "name": "Vinay Kumar"
+    }, 
+    {
+     "name": "Abhishek Kumar"
+    }, 
+    {
+     "name": "Aman Agarwal"
+    }, 
+    {
+     "name": "Vedavyas Chigurupati"
+    }, 
+    {
+     "name": "Suyash Agarwal"
+    }, 
+    {
+     "name": "Aman Singh"
+    }, 
+    {
+     "name": "Saurabh Singh"
+    }, 
+    {
+     "name": "Mohit Kumar Lal"
+    }, 
+    {
+     "name": "Ashish Sinha"
+    }
+   ]
+  }, 
+  {
+   "name": "Training, Associate", 
+   "children": [
+    {
+     "name": "nipun lall"
+    }, 
+    {
+     "name": "Siri Jakka"
+    }, 
+    {
+     "name": "Adhishwar Mittal"
+    }, 
+    {
+     "name": "Praisia Technologies"
+    }
+   ]
+  }, 
+  {
+   "name": "Member, of, Technical, Staff", 
+   "children": [
+    {
+     "name": "Aman Sinha"
+    }, 
+    {
+     "name": "Prakhar Agrawal"
+    }, 
+    {
+     "name": "Abhinav Vishwa"
+    }
+   ]
+  }, 
+  {
+   "name": "Data, Analyst", 
+   "children": [
+    {
+     "name": "anuraag deekonda"
+    }, 
+    {
+     "name": "Abhinav Gupta"
+    }
+   ]
+  }, 
+  {
+   "name": "Placement, Overall, Coordinator", 
+   "children": [
+    {
+     "name": "Vijendra Singh Aswal"
+    }, 
+    {
+     "name": "Placement Office IIIT Allahabad"
+    }, 
+    {
+     "name": "Shubham Kesarwani"
+    }, 
+    {
+     "name": "Aaquib Khwaja"
+    }
+   ]
+  }
+ ]
+}

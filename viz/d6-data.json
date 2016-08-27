@@ -1,0 +1,522 @@
+{
+ "name": "My LinkedIn", 
+ "children": [
+  {
+   "name": "Manager", 
+   "children": [
+    {
+     "name": "GAURAV BANSAL "
+    }, 
+    {
+     "name": "Nishant Tiwari "
+    }, 
+    {
+     "name": "Vijay Mendiratta "
+    }, 
+    {
+     "name": "Diwas Sharma "
+    }, 
+    {
+     "name": "Dheeraj Singh "
+    }, 
+    {
+     "name": "shaloo singh "
+    }, 
+    {
+     "name": "Nasiruddin Ahmad "
+    }
+   ]
+  }, 
+  {
+   "name": "Professor, Associate", 
+   "children": [
+    {
+     "name": "Monark Bag "
+    }, 
+    {
+     "name": "sanjai singh "
+    }, 
+    {
+     "name": "nipun lall "
+    }, 
+    {
+     "name": "Siri Jakka "
+    }, 
+    {
+     "name": "Adhishwar Mittal "
+    }, 
+    {
+     "name": "Samudrala Kumar "
+    }, 
+    {
+     "name": "Praisia Technologies "
+    }, 
+    {
+     "name": "Jag Rawat "
+    }
+   ]
+  }, 
+  {
+   "name": "Technical, Member, Staff, of, Team", 
+   "children": [
+    {
+     "name": "Aman Sinha "
+    }, 
+    {
+     "name": "Naval Kishor Meena "
+    }, 
+    {
+     "name": "Prakhar Agrawal "
+    }, 
+    {
+     "name": "Ankur Tyagi "
+    }, 
+    {
+     "name": "Abhinav Vishwa "
+    }
+   ]
+  }, 
+  {
+   "name": "Programmer, Analyst", 
+   "children": [
+    {
+     "name": "anuraag deekonda "
+    }, 
+    {
+     "name": "JP Godara "
+    }, 
+    {
+     "name": "Abhinav Gupta "
+    }, 
+    {
+     "name": "Ramanan Ramesh "
+    }, 
+    {
+     "name": "Mithilesh Kr. Mishra "
+    }
+   ]
+  }, 
+  {
+   "name": "Consultant, IT", 
+   "children": [
+    {
+     "name": "Pradeep Mishra "
+    }, 
+    {
+     "name": "raja agarwal "
+    }, 
+    {
+     "name": "ASHISH KUMAR SAHU "
+    }
+   ]
+  }, 
+  {
+   "name": "Cell, Co-ordinator, Placement", 
+   "children": [
+    {
+     "name": "Adhishwar Mittal "
+    }, 
+    {
+     "name": "divya porwal "
+    }
+   ]
+  }, 
+  {
+   "name": "Ambassador, Student", 
+   "children": [
+    {
+     "name": "Manu Saxena "
+    }, 
+    {
+     "name": "Abhimanyu Singh "
+    }, 
+    {
+     "name": "Harshit Gupta "
+    }, 
+    {
+     "name": "Monica Singh "
+    }, 
+    {
+     "name": "ravinder naik azmeera "
+    }, 
+    {
+     "name": "Jyoti Singh "
+    }, 
+    {
+     "name": "Vishal Srivastava "
+    }, 
+    {
+     "name": "Aman Agarwal "
+    }, 
+    {
+     "name": "Jai Mishra "
+    }, 
+    {
+     "name": "Upendra gupta "
+    }, 
+    {
+     "name": "Charul Agrawal "
+    }, 
+    {
+     "name": "Shivlal Dhundhwal "
+    }, 
+    {
+     "name": "Amarnath kumar "
+    }, 
+    {
+     "name": "Nishtha Rai "
+    }, 
+    {
+     "name": "Vikhyat Tandon "
+    }, 
+    {
+     "name": "Shubham Tyagi "
+    }, 
+    {
+     "name": "siyaram malav "
+    }, 
+    {
+     "name": "manish kumar "
+    }, 
+    {
+     "name": "Vishnu Ks "
+    }, 
+    {
+     "name": "Sumit Kumar "
+    }, 
+    {
+     "name": "Amit Kumar Singh "
+    }, 
+    {
+     "name": "Sunil Rana "
+    }, 
+    {
+     "name": "Shailendra Pratap Singh "
+    }, 
+    {
+     "name": "Ashutosh Gupta "
+    }, 
+    {
+     "name": "Ravi Kiran JP "
+    }, 
+    {
+     "name": "Deepak kumhar "
+    }, 
+    {
+     "name": "GAURAV VERMA "
+    }, 
+    {
+     "name": "Rishabh Chandel "
+    }, 
+    {
+     "name": "Navaz Mannan "
+    }, 
+    {
+     "name": "Sidharth Singla "
+    }, 
+    {
+     "name": "Talha Khan "
+    }, 
+    {
+     "name": "ANUJ SHARMA "
+    }, 
+    {
+     "name": "Ashok Danga "
+    }, 
+    {
+     "name": "Pramiti Goel "
+    }, 
+    {
+     "name": "Namrata singh chauhan "
+    }, 
+    {
+     "name": "Aaquib Khwaja "
+    }, 
+    {
+     "name": "Shreya Singh "
+    }, 
+    {
+     "name": "Pretty Meena "
+    }, 
+    {
+     "name": "Shiv Shankar Verma "
+    }, 
+    {
+     "name": "amanraj varshney "
+    }, 
+    {
+     "name": "Aman Aggarwal "
+    }, 
+    {
+     "name": "Divanshu Garg "
+    }
+   ]
+  }, 
+  {
+   "name": "-, Director, Engineering, Test, Senior, Software", 
+   "children": [
+    {
+     "name": "Sriram Subramanian "
+    }, 
+    {
+     "name": "Prashanth Ashwathnarayan "
+    }
+   ]
+  }, 
+  {
+   "name": "Engineer", 
+   "children": [
+    {
+     "name": "Lakshya Goel "
+    }, 
+    {
+     "name": "Sushil Kumar "
+    }, 
+    {
+     "name": "koganti rakesh "
+    }, 
+    {
+     "name": "Aviral Sahai "
+    }, 
+    {
+     "name": "sarthak mall "
+    }, 
+    {
+     "name": "Udit Agarwal "
+    }, 
+    {
+     "name": "deepak irukula "
+    }, 
+    {
+     "name": "Sunil Kumar "
+    }, 
+    {
+     "name": "Tejaswi Reddy "
+    }, 
+    {
+     "name": "Prabhat Kumar "
+    }, 
+    {
+     "name": "Rahul Sharma "
+    }, 
+    {
+     "name": "Harsh Lalwani "
+    }, 
+    {
+     "name": "seshank koganti "
+    }, 
+    {
+     "name": "Sapan Diwakar "
+    }, 
+    {
+     "name": "Viswash Pratap Singh "
+    }, 
+    {
+     "name": "Mayank Tuteja "
+    }, 
+    {
+     "name": "Sandeep Goyal "
+    }, 
+    {
+     "name": "Ruben Roy "
+    }, 
+    {
+     "name": "Naveen Bandlamoodi "
+    }, 
+    {
+     "name": "Anoop Mishra "
+    }, 
+    {
+     "name": "Ankit Paharia "
+    }, 
+    {
+     "name": "Pritam Kumar "
+    }, 
+    {
+     "name": "Prateek Khandelwal "
+    }, 
+    {
+     "name": "Amar deep gupta "
+    }, 
+    {
+     "name": "Ankit Gupta "
+    }, 
+    {
+     "name": "Hemant Pawar "
+    }, 
+    {
+     "name": "shailesh kumar "
+    }, 
+    {
+     "name": "Rohit Wadhwa "
+    }, 
+    {
+     "name": "srikanth br "
+    }, 
+    {
+     "name": "Ajit Abhipallav "
+    }, 
+    {
+     "name": "Dinesh Pathak "
+    }, 
+    {
+     "name": "smit hinsu "
+    }, 
+    {
+     "name": "Arpit Mittal "
+    }, 
+    {
+     "name": "Adity Khandaalkar "
+    }, 
+    {
+     "name": "Abhishek Jha "
+    }, 
+    {
+     "name": "Krishna Murthy P.V.N.S.S "
+    }, 
+    {
+     "name": "Sidharth Guglani "
+    }, 
+    {
+     "name": "Aman Mamgain "
+    }, 
+    {
+     "name": "akshay khare "
+    }, 
+    {
+     "name": "Vinay Kumar "
+    }, 
+    {
+     "name": "Sumit Kumar Satnalika "
+    }, 
+    {
+     "name": "praveen kumar "
+    }, 
+    {
+     "name": "Abhishek Kumar "
+    }, 
+    {
+     "name": "Mragank Tolwani "
+    }, 
+    {
+     "name": "Aman Agarwal "
+    }, 
+    {
+     "name": "sumit gaur "
+    }, 
+    {
+     "name": "Lalit Pathak "
+    }, 
+    {
+     "name": "Shubham Jain "
+    }, 
+    {
+     "name": "Vedavyas Chigurupati "
+    }, 
+    {
+     "name": "Mayank Gupta "
+    }, 
+    {
+     "name": "Suyash Agarwal "
+    }, 
+    {
+     "name": "Aman Singh "
+    }, 
+    {
+     "name": "Akhil Yadav "
+    }, 
+    {
+     "name": "Avinash Kumar Chaudhary "
+    }, 
+    {
+     "name": "Navneet Sinha "
+    }, 
+    {
+     "name": "manish aswani "
+    }, 
+    {
+     "name": "Naveen Shukla "
+    }, 
+    {
+     "name": "Sharath Naik "
+    }, 
+    {
+     "name": "Chandresh Bhardwaj "
+    }, 
+    {
+     "name": "Vamsi Krishna "
+    }, 
+    {
+     "name": "Digvijay Singh "
+    }, 
+    {
+     "name": "Amit Meena "
+    }, 
+    {
+     "name": "Jayendra Singh "
+    }, 
+    {
+     "name": "Monika Agrawal "
+    }, 
+    {
+     "name": "Keshav Maheshwari "
+    }, 
+    {
+     "name": "vidyashankar sahu "
+    }, 
+    {
+     "name": "Akshay Gupta "
+    }, 
+    {
+     "name": "Gaurav Kaushik "
+    }, 
+    {
+     "name": "Saurabh Singh "
+    }, 
+    {
+     "name": "Mohit Kumar Lal "
+    }, 
+    {
+     "name": "Ashish Sinha "
+    }, 
+    {
+     "name": "Mohit Bansal "
+    }, 
+    {
+     "name": "Amrit Jangid "
+    }, 
+    {
+     "name": "Naveen Chalasani "
+    }
+   ]
+  }, 
+  {
+   "name": "Placement, Overall, Coordinator", 
+   "children": [
+    {
+     "name": "Vijendra Singh Aswal "
+    }, 
+    {
+     "name": "Placement Office IIIT Allahabad "
+    }, 
+    {
+     "name": "Shubham Kesarwani "
+    }, 
+    {
+     "name": "Aaquib Khwaja "
+    }
+   ]
+  }, 
+  {
+   "name": "of, Head, Growth, Sales", 
+   "children": [
+    {
+     "name": "Pathik Shah "
+    }, 
+    {
+     "name": "Raj Medepalli "
+    }
+   ]
+  }
+ ]
+}
